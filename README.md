@@ -1,20 +1,21 @@
-# Adrian Lautaro Salamea Quimis
+# 👋 Adrian Lautaro Salamea Quimis
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
-## Contenido
+## 💎 Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 * [Lenguajes que utilizo](#Lenguajes-que-utilizo)
-## Información personal
+## 🧑‍💼 Información personal
 * Nombre: Adrian Salamea.
 * Ocupación: Estudiante Universitario en Ingeneria.
 * Lugar de residencia: Ecuador-Guayaquil.
-## Proyectos
+##  ✅ Proyectos
 * [Lista de tus proyectos]
-## Intereses
+## 😎 Intereses
 * Aprender lo más posible
-## Lenguajes que utilizo
+* Tenis de mesa
+## 🧑‍💻 Lenguajes que utilizo
 * Python
 * Java
 
