@@ -7,11 +7,12 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Adrian Salamea.
-* Ocupación: Estudiante Universitario.
+* Ocupación: Estudiante Universitario en Ingeneria.
 * Lugar de residencia: Ecuador-Guayaquil.
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* La musica
+* Aprender lo más posible
 
