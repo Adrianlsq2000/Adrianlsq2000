@@ -10,12 +10,12 @@ proyectos y mis intereses.
 * Nombre: Adrian Salamea.
 * Ocupación: Estudiante Universitario en Ingeneria.
 * Lugar de residencia: Ecuador-Guayaquil.
-##  ✅ Proyectos
+## ✅ Proyectos
 * [Lista de tus proyectos]
 ## 😎 Intereses
 * Aprender lo más posible
 * Tenis de mesa
-## 🧑‍💻 Lenguajes que utilizo
+##🧑‍💻 Lenguajes que utilizo
 * Python
 * Java
 
