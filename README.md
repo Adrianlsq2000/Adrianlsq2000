@@ -5,14 +5,16 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Lenguajes que utilizo](#Lenguajes-que-utilizo)
 ## Información personal
 * Nombre: Adrian Salamea.
 * Ocupación: Estudiante Universitario en Ingeneria.
 * Lugar de residencia: Ecuador-Guayaquil.
-* Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* La musica
 * Aprender lo más posible
+## Lenguajes que utilizo
+* Python
+* Java
 
