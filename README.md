@@ -42,6 +42,6 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 </a>
 
 <a href="https://x.com/AdrianLautaro_S" target="_blank">
-  <img alt="X" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white?raw=true">
+  <img alt="X" src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white?raw=true">
 </a>
 
