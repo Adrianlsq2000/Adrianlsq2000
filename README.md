@@ -4,7 +4,8 @@
 * [Proyectos](#-proyectos)
 * [Estadísticas de GitHub](#-estadísticas-de-github)
 * [Tecnologías y herramientas](#-tecnologías-y-herramientas)
-![gif]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3eTFjMWYyYWkxOXdtbDFzNHRwdGRjcWx3NWQxeHBvNDdyNDI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp))
+
+
 ## 🧑‍💼 Acerca de mí
 Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computacionales en la universidad ESPOL, Ecuador. Me apasionan áreas como el desarrollo de videojuegos, ciberseguridad, desarrollo web y aplicaciones móviles. Mi objetivo es continuar aprendiendo y desarrollándome profesionalmente, siempre buscando nuevos retos que me permitan crecer. Al finalizar mis estudios, aspiro a formar parte de un proyecto de desarrollo de videojuegos, ya sea para consolas o PC, y contribuir con mis conocimientos y creatividad al avance de la industria.
 ## ✅ Proyectos
