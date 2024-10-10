@@ -1,6 +1,6 @@
 # 👋Adrian Lautaro Salamea Quimis
 ## 💎 Contenido
-* [Sobre mí](#-acerca-de-mí)
+* [Acerca de mí](#-acerca-de-mí)
 * [Proyectos](#-proyectos)
 * [Estadísticas de GitHub](#-estadísticas-de-github)
 * [Tecnologías y herramientas](#-tecnologías-y-herramientas)
