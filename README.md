@@ -9,6 +9,7 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 ## ✅Proyectos
 * [Lista de tus proyectos]
 ## 📈 Estadísticas de GitHub
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true)
 
 ## 🧑‍💻Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
