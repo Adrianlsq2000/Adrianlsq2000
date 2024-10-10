@@ -14,11 +14,8 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 
 ## 🧑‍💻Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
