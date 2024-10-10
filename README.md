@@ -26,8 +26,9 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📒Contactos
-<a href="adrianlautaro2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 <a href="https://www.linkedin.com/in/adrian-salamea-127573254/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-blue?style=flat-square&logo=linkedin"></a>
+
+![Gmail](https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail)
 
 
 
