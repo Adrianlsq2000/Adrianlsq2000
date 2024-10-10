@@ -1,4 +1,4 @@
-# 👋Adrian Lautaro Salamea Quimis
+# 👋 Adrian Lautaro Salamea Quimis
 ## 💎 Contenido
 * [Acerca de mí](#-acerca-de-mí)
 * [Proyectos](#-proyectos)
@@ -37,8 +37,11 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="mailto:adrianlautaro2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail">
+<a href="mailto:adrianlautaro2000@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail">
 </a>
 
-
+<a href="https://x.com/AdrianLautaro_S" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white?raw=true">
+</a>
 
