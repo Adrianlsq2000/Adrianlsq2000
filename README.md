@@ -10,7 +10,7 @@
 Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computacionales en la universidad ESPOL, Ecuador. Me apasionan áreas como el desarrollo de videojuegos, ciberseguridad, desarrollo web y aplicaciones móviles. Mi objetivo es continuar aprendiendo y desarrollándome profesionalmente, siempre buscando nuevos retos que me permitan crecer. Al finalizar mis estudios, aspiro a formar parte de un proyecto de desarrollo de videojuegos, ya sea para consolas o PC, y contribuir con mis conocimientos y creatividad al avance de la industria.
 ## ✅ Proyectos
 * Juegos de adivinanzas con preguntas
-![Inicio del juego]()
+![Inicio del juego](./imagenes/ProyectoAdivinanzas.png)
 ## 📈 Estadísticas de GitHub
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true)
 
