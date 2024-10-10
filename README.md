@@ -13,6 +13,7 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 <div align="center">
   <img src="./imagenes/ProyectoAdivinanzas.png" alt="Descripción de la imagen" width="400" height="300"/>
 </div>
+
 ## 📈 Estadísticas de GitHub
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true)
 
