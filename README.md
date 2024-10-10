@@ -37,7 +37,8 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-blue?style=flat-square&logo=linkedin">
 </a>
 
-![Gmail](https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail)
+<a href="mailto:adrianlautaro2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
 
 
 
