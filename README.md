@@ -4,7 +4,7 @@
 * [Proyectos](#-proyectos)
 * [Estadísticas de GitHub](#-estadísticas-de-github)
 * [Tecnologías y herramientas](#-tecnologías-y-herramientas)
-
+* [Contactos](#-contactos)
 
 ## 🧑‍💼 Acerca de mí
 Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computacionales en la universidad ESPOL, Ecuador. Me apasionan áreas como el desarrollo de videojuegos, ciberseguridad, desarrollo web y aplicaciones móviles. Mi objetivo es continuar aprendiendo y desarrollándome profesionalmente, siempre buscando nuevos retos que me permitan crecer. Al finalizar mis estudios, aspiro a formar parte de un proyecto de desarrollo de videojuegos, ya sea para consolas o PC, y contribuir con mis conocimientos y creatividad al avance de la industria.
@@ -15,7 +15,6 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 </div>
 
 ## 📈 Estadísticas de GitHub
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true" alt="GitHub Activity"/>
 </div>
@@ -25,6 +24,10 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📒Contactos
+<a href="adrianlautaro2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-adrianlautaro2000@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/adrian-salamea-127573254/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-blue?style=flat-square&logo=linkedin"></a>
 
 
 
