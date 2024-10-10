@@ -34,7 +34,7 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 
 ## 📒 Contactos
 <a href="https://www.linkedin.com/in/adrian-salamea-127573254/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea&logo=linkedin-blue?style=flat-square">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-grey?style=flat-square&logo=linkedin-blue">
 </a>
 
 <a href="mailto:adrianlautaro2000@gmail.com" target="_blank">
