@@ -10,7 +10,7 @@
 Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computacionales en la universidad ESPOL, Ecuador. Me apasionan áreas como el desarrollo de videojuegos, ciberseguridad, desarrollo web y aplicaciones móviles. Mi objetivo es continuar aprendiendo y desarrollándome profesionalmente, siempre buscando nuevos retos que me permitan crecer. Al finalizar mis estudios, aspiro a formar parte de un proyecto de desarrollo de videojuegos, ya sea para consolas o PC, y contribuir con mis conocimientos y creatividad al avance de la industria.
 ## ✅ Proyectos
 * Juegos de adivinanzas con preguntas a la computadora:Este proyecto está desarrollado en el lenguaje de programación Java y utiliza herramientas como Scene Builder. Consiste en un juego en el que la computadora adivina el animal en el que estás pensando mediante una serie de preguntas.
-<div>
+<div align="center">
   <img src="./imagenes/ProyectoAdivinanzas.png" alt="Descripción de la imagen" width="400" height="300"/>
   <br>
   <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
