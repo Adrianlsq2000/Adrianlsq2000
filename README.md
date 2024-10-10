@@ -19,13 +19,13 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
   <img src="https://github-readme-stats.vercel.app/api?username=Adrianlsq2000&show_icons=true" alt="GitHub Activity"/>
 </div>
 
-## 🧑‍💻Tecnologías y herramientas
+## 🧑‍💻 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📒Contactos
+## 📒 Contactos
 <a href="https://www.linkedin.com/in/adrian-salamea-127573254/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian%20salamea-blue?style=flat-square&logo=linkedin">
 </a>
