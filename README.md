@@ -12,27 +12,27 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 * Juegos de adivinanzas con preguntas a la computadora:Este proyecto está desarrollado en el lenguaje de programación Java y utiliza herramientas como Scene Builder. Consiste en un juego en el que la computadora adivina el animal en el que estás pensando mediante una serie de preguntas.
 
 <div align="center">
-  <br>
   <img src="./imagenes/ProyectoAdivinanzas.png" alt="proyecto1" width="400" height="300"/>
   <br>
   <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ir al Repositorio del proyecto
     </button>
-</a>
+  </a>
+  <br> 
 </div>
 
 * Este proyecto consiste en crear un CV digital utilizando HTML y CSS para estructurar y estilizar la información. Incluye secciones como datos personales, experiencia laboral, educación, habilidades y contacto. El diseño será profesional, responsivo y adaptable a diferentes dispositivos, demostrando conocimientos básicos y avanzados en desarrollo web.
 
 <div align="center">
-  <br>
   <img src="./imagenes/curriculum.png" alt="proyecto2" width="500" height="300"/>
   <br>
   <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ir al Repositorio del proyecto
     </button>
-</a>
+  </a>
+  <br>
 </div>
 
 
