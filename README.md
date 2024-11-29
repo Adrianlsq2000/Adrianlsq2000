@@ -27,7 +27,7 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
 <div align="center">
   <img src="./imagenes/curriculum.png" alt="proyecto2" width="500" height="300"/>
   <br>
-  <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
+  <a href="https://github.com/Adrianlsq2000/curriculum.git" target="_blank">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ir al Repositorio del proyecto
     </button>
