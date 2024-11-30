@@ -18,21 +18,31 @@ Soy Adrián Salamea, un entusiasta estudiante de Ingeniería en Ciencias Computa
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ir al Repositorio del proyecto
     </button>
-  </a>
-  <br> 
+</a>
 </div>
 
-* Este proyecto consiste en crear un CV digital utilizando HTML y CSS para estructurar y estilizar la información. Incluye secciones como datos personales, experiencia laboral, educación, habilidades y contacto. El diseño será profesional, responsivo y adaptable a diferentes dispositivos, demostrando conocimientos básicos y avanzados en desarrollo web.
+* El proyecto consiste en crear un CV digital utilizando HTML y CSS para estructurar y estilizar la información. Incluye secciones como datos personales, experiencia laboral, educación, habilidades y contacto. El diseño será profesional, responsivo y adaptable a diferentes dispositivos, demostrando conocimientos básicos y avanzados en desarrollo web.
 
 <div align="center">
-  <img src="./imagenes/curriculum.png" alt="proyecto2" width="500" height="300"/>
+  <img src="./imagenes/curriculum.png" alt="proyecto2" width="600" height="400"/>
   <br>
-  <a href="https://github.com/Adrianlsq2000/curriculum.git" target="_blank">
+  <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ir al Repositorio del proyecto
     </button>
-  </a>
+</a>
+</div>
+
+* El proyecto es una aplicación de gestión de vehículos usados desarrollada en JavaFX, usando estructuras de datos personalizadas y persistencia con archivos. Permite crear, editar, eliminar, filtrar y ordenar vehículos, con opciones avanzadas como comparación y filtros adicionales, ofreciendo una interfaz eficiente y visualmente atractiva.
+
+<div align="center">
+  <img src="./imagenes/proyecto2.png" alt="proyecto3" width="400" height="300"/>
   <br>
+  <a href="https://github.com/gTeran12/ProyectoArboles.git" target="_blank">
+    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Ir al Repositorio del proyecto
+    </button>
+</a>
 </div>
 
 
